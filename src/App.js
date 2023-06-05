@@ -6,7 +6,6 @@ import MovieCard from "./MovieCard";
 const API_URL = process.env.REACT_APP_API_URL;
 
 const App = () => {
-  console.log(process.env.API_URL);
   const [movies, setMovies] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
 
