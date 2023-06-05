@@ -3,6 +3,8 @@
 - The Movie Insights App, built on ReactJS, leverages the power of functional components, utilizing features such as props, useState, useEffect, JSX code, etc.
 - This app allows users to search for movies by entering their names, providing an interactive and engaging experience.
 
+Live Site Link: https://react-movie-insights-app.netlify.app/
+
 ## Steps to follow
 
 For using the project, follow the following steps
